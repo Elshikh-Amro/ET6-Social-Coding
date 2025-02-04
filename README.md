@@ -4,9 +4,7 @@ This repository contains starter code and resources for Social Coding workshops 
 
 ## Running Python Files in this Repository
 
-##
-
-team name is debuggers
+## Team name is debuggers
 
 -Amro Mohamed
 

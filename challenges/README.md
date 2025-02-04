@@ -1,11 +1,23 @@
 
 🚀 **Bridging Math and Programming – Code Challenge**
 
-
 Welcome to the Bridging Math and Programming Code Challenge! This challenge is designed to help you apply discrete mathematics concepts to real-world programming problems using Python.
 
+## Team name is debuggers
 
-📌 **General Information** 
+-Amro Mohamed
+
+-Assel Omer
+
+-Safaa Osman
+
+-Tomas
+
+-Hector Colmenares
+
+-Özgür Özbek
+
+📌 **General Information**
 
 * **Date:** Tuesday, February 4, 2025
 
@@ -16,7 +28,7 @@ Welcome to the Bridging Math and Programming Code Challenge! This challenge is d
 * **Challenges:** The repository includes four programming challenges based on Boolean algebra, set theory, and number systems. Each problem comes with a real-world scenario explained within the corresponding challenges1-4.py files.
 * **Problem 4:** This is optional and can be attempted if time allows.
 
-📜 **Rules & Guidelines** 
+📜 **Rules & Guidelines**
 
 ❌ **What is NOT Allowed?**
 
@@ -28,15 +40,15 @@ Welcome to the Bridging Math and Programming Code Challenge! This challenge is d
 
 ✅ Your notes & PowerPoint slides from previous sessions.
 
-✅ Python’s official documentation: https://docs.python.org/3/
+✅ Python’s official documentation: <https://docs.python.org/3/>
 
 ✅ Collaboration with your group – Discuss, brainstorm, and solve problems together!
 
-👥 **Teamwork & Breakout Rooms** 
+👥 **Teamwork & Breakout Rooms**
 
 * Participants will be divided into groups.
 
- * Each group can select a team name.
+* Each group can select a team name.
 
 * Each team must write their team name and member names as a comment or group description in their repository.
 
@@ -70,6 +82,6 @@ Welcome to the Bridging Math and Programming Code Challenge! This challenge is d
 
 * Python best practices (PEP 8, clean coding principles)
 
-🔗 Review Checklist: MIT ET Code Review Checklist: https://github.com/MIT-Emerging-Talent/ET6-practice-code-review/blob/main/.github/PULL_REQUEST_TEMPLATE.md  
+🔗 Review Checklist: MIT ET Code Review Checklist: <https://github.com/MIT-Emerging-Talent/ET6-practice-code-review/blob/main/.github/PULL_REQUEST_TEMPLATE.md>  
 
 Let's make this an engaging and insightful coding experience! 🚀
