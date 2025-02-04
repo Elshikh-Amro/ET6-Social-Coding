@@ -20,3 +20,17 @@ Who is left out? Identify employees without access.
 Are there risks? Indicate employees who might be exposed to unnecessary data.
 Your output should visually highlight these relationships without explicitly listing them in a simple table or list. Think beyond just printing data—use a format that helps detect patterns at a glance.
 """
+from matplotlib import pyplot as plt
+
+# Acces
+dev_x = ["E0435", "E1021", "E3098", "E7642", "E8873", "E6590"]
+
+dev_y = ["E7642", "E8873", "E6590", "E9812", "E4520","E0001"]
+
+plt.plot(dev_x, dev_y)
+plt.xlabel('technical')
+plt.ylabel('financial')
+plt.title('acces')
+plt.show()
+
+#Basic line graph using python module matplotlib

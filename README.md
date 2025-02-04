@@ -4,6 +4,22 @@ This repository contains starter code and resources for Social Coding workshops 
 
 ## Running Python Files in this Repository
 
+##
+
+team name is debuggers
+
+-Amro Mohamed
+
+-Assel Omer
+
+-Safaa Osman
+
+-Tomas
+
+-Hector Colmenares
+
+-Özgür Özbek
+
 - **Running a plain Python script**:
   - _Simply run the script_: `$ python path/to/file.py`
   - _Print the program's trace to the console_:
