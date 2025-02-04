@@ -29,3 +29,31 @@ What changes would you recommend to enhance security and minimize excessive acce
 # -*- coding: utf-8 -*-
 
 """
+finance_access = set(["E0435", "E1021", "E3098", "E7642", "E8873", "E6590"])
+
+tech_access = set(["E7642", "E8873", "E6590", "E9812", "E4520"])
+
+admin_access = set(["E0001"])
+
+new_employee = 'E9999'
+
+un = finance_access.union(tech_access).union(admin_access)
+
+y = finance_access.intersection(tech_access)
+
+x = finance_access.symmetric_difference(tech_access)
+
+ 
+
+ 
+
+print("This people have access to at least one type of data",un)
+
+print("This people have access to both financial and tech documents", x)
+
+print("This people have access to exclusively one data type", y)
+
+print("Which employees currently lack access is ", new_employee)
+
+#Are there unnecessary overlaps in access that could pose a security risk? because there is employees have access to both technical and financial.
+#What changes would you recommend to enhance security and minimize excessive access? restructure the acces credintials so there is not any intersections between technical and financial data

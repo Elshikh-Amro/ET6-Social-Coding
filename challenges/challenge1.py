@@ -26,6 +26,7 @@ Apply Boolean law to simplify it.
 Interpret what the final expression means in the context of allowing or blocking a login attempt.
 
 """
+
 correct_credintails ='986abc'
 A = input('Enter the user credentials: ')
 #B = input('enter the login attempt')
